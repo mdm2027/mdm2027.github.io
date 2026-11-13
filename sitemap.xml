@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" encoding="utf-8">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mdm2027.github.io/</loc>
   </url>
@@ -11,6 +11,10 @@
   </url>
   <url>
     <loc>https://mdm2027.github.io/Workshop</loc>
+  </url>
+   <url>
+    <loc>https://mdm2027.github.io/callsDemo</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
     <loc>https://mdm2027.github.io/committee</loc>
